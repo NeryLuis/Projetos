@@ -1,0 +1,9 @@
+*  { background-color: rgb(109, 126, 129); font-family: 'Roboto Mono', monospace; }
+h2   {text-align: center; font-family: 'Roboto Mono', monospace; font-size: 40px; margin-top: 2; text-transform: uppercase; }
+h3 {margin-left: 1cm; font-family: 'Roboto Mono', monospace; line-height: 0px; text-transform: uppercase;}
+body figure { margin-left: 0cm; margin-top: 2;}
+hr {border: 20; border-top: 100; line-height: 0; color: black;}
+.linha { display: flex; flex-flow: row wrap;}
+.coluna-50 { width: 50%;}
+li  { font-family: 'Roboto Mono', monospace; font-size: 15px; margin-top: 0; }
+h5 {margin-left: 0cm; font-family: 'Roboto Mono', monospace; line-height: 0px;}
